@@ -1,1 +1,1 @@
-# Face-Detection
+This project allowed me to reinforce my understanding of python and its applications. It's incredible to see how a few lines of code can create a face detection interface which can count the number of users on the screen an mark a blue coloured square bracket on their faces. This is the on working project of face authentication apps which are used in several fields. I'm continuously learning and growing, and this experience has been immensely valuable.
